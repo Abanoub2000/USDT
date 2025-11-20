@@ -1,0 +1,10 @@
+{
+  "name": "Tether USD",
+  "symbol": "USDT",
+  "decimals": "6",
+  "description": "USDT Flash Simulation Token for Testing.",
+  "image": "bafkreig5ly4vgx5po3s4hd5pfsdwf5oui53stqi7g32jyi5k6xa7umlvja",
+  "website": "https://tether.to/",
+  "type": "TRC20",
+  "explorer": "https://tronscan.org/"
+}
